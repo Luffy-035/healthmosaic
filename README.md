@@ -70,13 +70,6 @@ FUTURE PLANS AND SCALABILITY
 -   Personal reminder
 
 -   Option to register as a doctor
-
-PRODUCT SCREENSHOTS
-
-![](./image1.png){width="3.138888888888889in"
-height="1.4305555555555556in"}![](./image2.png){width="3.037916666666667in"
-height="1.4340277777777777in"}
-
 SETUP INSTRUCTION
 
 Walkthrough
