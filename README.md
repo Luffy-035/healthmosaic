@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+HACK THE MODEL -- 2025
 
-## Getting Started
+PRODUCT OVERVIEW
 
-First, run the development server:
+INTRODUCTION
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Diagnosify is an advance medical diagnostics , personalized health
+scores, and Ai-powered Consultations platform. A revolutionary
+healthcare technology that puts advance medical tools in your hands.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+PROBLEM STATEMENTS
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Peoples living in rural areas have limited access to doctors and
+healthcare facilities due to which disease prediction and diagnosis gets
+delayed.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+HOW DIAGNOSIFY SOLVES THIS ISSUE
 
-## Learn More
+-   It provides a personalized health score based on your vitals,
+    lifestyles, and medical history to track your wellbeing.
 
-To learn more about Next.js, take a look at the following resources:
+-   It can automatically summarize and generate structured medical
+    records from your healthcare data.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   Offers AI-powered medical assistant for preliminary guidance and
+    health information.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+TARGET AUDIENCE
 
-## Deploy on Vercel
+-   Rural peoples
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+-   Peoples who want to monitor their health
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+-   Individual who wants to consult a doctor anytime from anywhere
+
+FEATURES AND FUNCTIONALITIES
+
+KEY FEATURES
+
+-   AI-powered medical report summarization
+
+-   Medical assistant
+
+-   Health assessment
+
+TECHNICAL DETAILS
+
+Database and Integration
+
+TECH STACK:-
+
+Framework:- Next.js (App Router)
+
+Frontend: - React, Tailwind CSS
+
+Authentication:- Clerk
+
+Database:- MongoDB (with Mongoose)
+
+AI/LLM:- LangChain, Mistral AI, Groq, Pinecone
+
+Storage/Backend-as-a-Service:- Supabase
+
+PDF Handling:- pdf-parse, pdfkit, react-pdf
+
+FUTURE PLANS AND SCALABILITY
+
+-   Local health centre suggestions
+
+-   Personal reminder
+
+-   Option to register as a doctor
+SETUP INSTRUCTION
+
+Walkthrough
+
+-   Click on the sign up icon on the homepage
+
+-   Sign up with any of your G-mail account
+
+-   For health assessment score check fill up the details it will
+    generate your health score
+
+-   For medical record summarizer upload your medical reports and it
+    will summarize your report in the form of a PDF(you can upload more
+    than one report)
+
+-   For medical assistant you can list out some symptoms you are having
+    and it will help you to detect the disease and give you some
+    diagnosis tips
+
+DEPLOYMENT LINK
+
+-   Compatible for both smartphone and laptop
+
+LINK:- https://healthpiece.vercel.app/
