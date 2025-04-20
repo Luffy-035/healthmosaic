@@ -1,0 +1,44 @@
+{
+  "name": "gawk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^6.14.3",
+    "@langchain/community": "^0.3.40",
+    "@langchain/core": "^0.3.44",
+    "@langchain/groq": "^0.2.2",
+    "@langchain/mistralai": "^0.2.0",
+    "@pinecone-database/pinecone": "^5.1.1",
+    "@supabase/supabase-js": "^2.49.4",
+    "autoprefixer": "^10.4.21",
+    "axios": "^1.8.4",
+    "eslint": "^9.24.0",
+    "eslint-config-next": "^15.3.0",
+    "groq-sdk": "^0.19.0",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^3.0.1",
+    "langchain": "^0.3.21",
+    "lucide-react": "^0.487.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2",
+    "next": "^15.3.0",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^5.1.91",
+    "pdfkit": "^0.16.0",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-dropzone": "^14.3.8",
+    "react-pdf": "^9.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}
